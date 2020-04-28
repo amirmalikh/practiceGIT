@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 Tess  
 2
-=======
+
 hgvqhkdjlwshndfmlj
 
 jlfgjnfmg
->>>>>>> branch 'master' of https://github.com/amirmalikh/practiceGIT.git
+
